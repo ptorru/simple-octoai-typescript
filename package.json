@@ -1,0 +1,13 @@
+{
+    "name": "your_project_name",
+    "version": "1.0.0",
+    "main": "your_script.js",
+    "type": "module",
+    "dependencies": {
+        "@octoai/sdk": "^1.4.0",
+        "dotenv": "^10.0.0"
+    },
+    "devDependencies": {
+        "typescript": "^4.0.0"
+    }
+}
